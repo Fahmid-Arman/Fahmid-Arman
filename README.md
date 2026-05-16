@@ -1,67 +1,69 @@
 <h1 align="center">Hi, I'm Fahmid Arman</h1>
 
 <p align="center">
-Computer Science undergraduate from Bangladesh | Learning Open Source, TypeScript/React, Kubernetes UI, and Cloud Native Development
+Computer Science undergraduate from Bangladesh | Software Development • Python • SQL • Problem Solving • Open Source
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science undergraduate student from Bangladesh, expected to graduate in September 2026.
+I am a Computer Science undergraduate student at BRAC University, Bangladesh, expected to graduate in September 2026.
 
-I am currently learning open-source contribution through the LFX Mentorship application process. My current focus is on improving my practical engineering skills by learning Git/GitHub workflows, TypeScript, React, Kubernetes basics, Headlamp, Argo CD, and GitOps concepts.
+I am interested in software development, problem solving, data-driven systems, open-source contribution, and practical engineering. I enjoy learning by building projects, reading code, improving my technical foundation, and working on real-world software problems.
 
-I am still early in my open-source journey, but I am serious about learning step by step, reading real codebases, writing maintainable code, improving documentation, and responding to mentor feedback.
+I am currently focused on improving my skills in Python, SQL, JavaScript, React, Git/GitHub workflows, backend fundamentals, data processing, and open-source collaboration.
 
 ---
 
 ## Current Focus
 
-- Preparing for LFX Mentorship
-- Learning Headlamp and Argo CD basics
-- Improving TypeScript and React skills
-- Understanding Kubernetes resources and GitOps workflows
-- Practicing Git and GitHub open-source contribution workflow
-- Building consistency in problem solving again
+- Improving software development fundamentals
+- Practicing Python, SQL, and JavaScript
+- Learning Git and GitHub workflows
+- Strengthening problem-solving consistency
+- Exploring open-source contribution
+- Building practical project experience
+- Learning data processing and basic machine learning workflows
 
 ---
 
 ## Technical Background
 
 - Programming: Python, C, C++, JavaScript, SQL
-- Web basics: React, Node.js, REST API concepts
+- Web basics: React, Node.js, Express.js, REST API concepts
 - Database basics: MySQL, PostgreSQL, MongoDB, database design
 - CS fundamentals: Data Structures, Algorithms, OOP, DBMS, OS, Computer Networks
-- Problem solving: Previously solved 650+ algorithmic problems on LeetCode and Codeforces
-- Current learning: TypeScript, React, Kubernetes, GitOps, open-source collaboration
+- Data/AI basics: Data preprocessing, feature engineering, regression models
+- Tools and workflows: Git, GitHub, AI-assisted development tools
+- Problem solving: Solved 650+ algorithmic problems across LeetCode and Codeforces
 
 ---
 
-## LFX Preparation
+## Projects & Interests
 
-I am currently preparing for the project:
+I have worked on academic and personal projects involving:
 
-**CNCF - Kubernetes: Add Argo CD to Headlamp - GitOps Application Management UI**
+- Marketplace platform development
+- Database-driven systems
+- Python automation
+- REST API concepts
+- Data preprocessing and machine learning basics
+- Open-source preparation and technical documentation
 
-Preparation repository:
-
-[lfx-headlamp-argocd-preparation](https://github.com/Fahmid-Arman/lfx-headlamp-argocd-preparation)
-
-In this repository, I am documenting my learning notes on:
-
-- Headlamp
-- Argo CD
-- GitOps
-- Kubernetes basics
-- TypeScript/React UI patterns
-- Open-source workflow
+I am especially interested in roles and opportunities where I can contribute to software development, data processing, backend systems, automation, testing, and real-world client or product-focused projects.
 
 ---
 
-## What I Am Looking For
+## Currently Learning
 
-I am looking for opportunities to learn from open-source maintainers, contribute to real projects, improve my coding ability, and grow into a consistent open-source contributor.
+- Advanced Python and SQL
+- TypeScript and React
+- Backend development fundamentals
+- Software testing and debugging
+- Git/GitHub collaboration
+- Open-source contribution workflow
+- Dashboarding and data visualization tools
 
 ---
 
@@ -69,3 +71,4 @@ I am looking for opportunities to learn from open-source maintainers, contribute
 
 - GitHub: [github.com/Fahmid-Arman](https://github.com/Fahmid-Arman)
 - LinkedIn: [linkedin.com/in/fahmid-arman](https://www.linkedin.com/in/fahmid-arman/)
+- LeetCode: [leetcode.com/u/Fahmid_Arman](https://leetcode.com/u/Fahmid_Arman/)
