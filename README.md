@@ -1,24 +1,34 @@
 <h1 align="center">Hi, I'm Fahmid Arman</h1>
 
 <p align="center">
-Computer Science undergraduate at BRAC University | AI • Backend • Full-Stack Development • Open Source
+  <strong>Computer Science undergraduate at BRAC University</strong><br>
+  AI • Backend Engineering • Full-Stack Development • Open Source
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahmid-arman/">LinkedIn</a> •
-  <a href="https://github.com/Fahmid-Arman">GitHub</a> •
-  <a href="https://leetcode.com/u/Fahmid_Arman/">LeetCode</a>
+  <a href="mailto:fahmid.brac@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fahmid.brac%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/fahmid-arman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fahmid%20Arman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Fahmid-Arman">
+    <img src="https://img.shields.io/badge/GitHub-Fahmid--Arman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/Fahmid_Arman/">
+    <img src="https://img.shields.io/badge/LeetCode-Fahmid__Arman-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science undergraduate student at BRAC University, Bangladesh, expected to graduate in September 2026.
+I am a Computer Science undergraduate student at **BRAC University, Bangladesh**, expected to graduate in **September 2026**.
 
-I enjoy building practical software systems that combine backend engineering, full-stack development, data-driven workflows, and applied AI. My recent work includes a grounded RAG system for codebase understanding, a clinic operations platform, MERN marketplace development, database-backed web applications, and a machine learning thesis on apartment price prediction in Dhaka.
+I build practical software systems across **backend engineering, full-stack development, data-driven workflows, and applied AI**. My recent work includes a grounded RAG system for codebase understanding, a clinic operations platform, MERN marketplace development, database-backed web applications, and a machine learning thesis on apartment price prediction in Dhaka.
 
-I am also actively improving through open-source contribution, software testing, Git/GitHub workflows, and consistent problem solving.
+I am also focused on open-source contribution, software testing, Git/GitHub workflows, clean engineering practices, and consistent problem solving.
 
 ---
 
@@ -35,6 +45,32 @@ I am also actively improving through open-source contribution, software testing,
 ---
 
 ## Technical Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white" alt="Django REST Framework">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 **Languages:** Python, JavaScript, TypeScript, C, C++  
 **Backend & Frontend:** FastAPI, Django REST Framework, Node.js, Express.js, React.js, Tailwind CSS, Vite  
@@ -100,7 +136,7 @@ Contributed a merged PR improving `CustomApiTools` authorization-header handling
 
 Undergraduate thesis at BRAC University focused on predicting Dhaka apartment prices using structural and location-based features.
 
-Built a stacking ensemble on 9,167 cleaned Dhaka apartment listings, achieving **R² = 0.867** and **14.59% MAPE** on a held-out test set, with SHAP interpretability and split-conformal prediction intervals.
+Built a stacking ensemble on **9,167 cleaned Dhaka apartment listings**, achieving **R² = 0.867** and **14.59% MAPE** on a held-out test set, with SHAP interpretability and split-conformal prediction intervals.
 
 **Tech:** Python, scikit-learn, XGBoost, LightGBM, SHAP
 
@@ -115,6 +151,17 @@ Built a stacking ensemble on 9,167 cleaned Dhaka apartment listings, achieving *
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/fahmid-arman](https://www.linkedin.com/in/fahmid-arman/)
-- **GitHub:** [github.com/Fahmid-Arman](https://github.com/Fahmid-Arman)
-- **LeetCode:** [leetcode.com/u/Fahmid_Arman](https://leetcode.com/u/Fahmid_Arman/)
+<p>
+  <a href="mailto:fahmid.brac@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fahmid.brac%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/fahmid-arman/">
+    <img src="https://img.shields.io/badge/LinkedIn-fahmid--arman-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Fahmid-Arman">
+    <img src="https://img.shields.io/badge/GitHub-Fahmid--Arman-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/Fahmid_Arman/">
+    <img src="https://img.shields.io/badge/LeetCode-Fahmid__Arman-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
