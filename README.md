@@ -6,7 +6,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahmid-arman/"><strong>LinkedIn</strong></a>
+  <a href="mailto:fahmid.brac@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fahmid-arman/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Fahmid-Arman">
+    <img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Fahmid_Arman/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="28" height="28"/>
+  </a>
 </p>
 
 ---
@@ -112,8 +126,20 @@ Built a stacking ensemble on **9,167 cleaned Dhaka apartment listings**, achievi
 
 ---
 
-## Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/fahmid-arman](https://www.linkedin.com/in/fahmid-arman/)
-- **Email:** [fahmid.brac@gmail.com](mailto:fahmid.brac@gmail.com)
-- **LeetCode:** [leetcode.com/u/Fahmid_Arman](https://leetcode.com/u/Fahmid_Arman/)
+<p align="center">
+  <a href="mailto:fahmid.brac@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fahmid-arman/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Fahmid-Arman">
+    <img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Fahmid_Arman/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="24" height="24"/>
+  </a>
+</p>
