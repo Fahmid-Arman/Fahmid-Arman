@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Fahmid Arman</h1>
 
 <p align="center">
-Computer Science undergraduate from Bangladesh | Software Development • Python • SQL • Problem Solving • Open Source
+Computer Science undergraduate at BRAC University | AI • Backend • Full-Stack Development • Open Source
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahmid-arman/">LinkedIn</a> •
+  <a href="https://github.com/Fahmid-Arman">GitHub</a> •
+  <a href="https://leetcode.com/u/Fahmid_Arman/">LeetCode</a>
 </p>
 
 ---
@@ -10,65 +16,105 @@ Computer Science undergraduate from Bangladesh | Software Development • Python
 
 I am a Computer Science undergraduate student at BRAC University, Bangladesh, expected to graduate in September 2026.
 
-I am interested in software development, problem solving, data-driven systems, open-source contribution, and practical engineering. I enjoy learning by building projects, reading code, improving my technical foundation, and working on real-world software problems.
+I enjoy building practical software systems that combine backend engineering, full-stack development, data-driven workflows, and applied AI. My recent work includes a grounded RAG system for codebase understanding, a clinic operations platform, MERN marketplace development, database-backed web applications, and a machine learning thesis on apartment price prediction in Dhaka.
 
-I am currently focused on improving my skills in Python, SQL, JavaScript, React, Git/GitHub workflows, backend fundamentals, data processing, and open-source collaboration.
+I am also actively improving through open-source contribution, software testing, Git/GitHub workflows, and consistent problem solving.
 
 ---
 
 ## Current Focus
 
-- Improving software development fundamentals
-- Practicing Python, SQL, and JavaScript
-- Learning Git and GitHub workflows
-- Strengthening problem-solving consistency
-- Exploring open-source contribution
-- Building practical project experience
-- Learning data processing and basic machine learning workflows
+- Building AI and backend-focused software projects
+- Working with RAG, LLMs, vector search, BM25, and reranking
+- Strengthening backend development with FastAPI, Django REST Framework, and Node.js
+- Improving full-stack development with React, TypeScript, and REST APIs
+- Practicing software testing, CI, Docker, and clean engineering workflows
+- Contributing to open-source projects
+- Solving algorithmic problems on LeetCode and Codeforces
 
 ---
 
-## Technical Background
+## Technical Skills
 
-- Programming: Python, C, C++, JavaScript, SQL
-- Web basics: React, Node.js, Express.js, REST API concepts
-- Database basics: MySQL, PostgreSQL, MongoDB, database design
-- CS fundamentals: Data Structures, Algorithms, OOP, DBMS, OS, Computer Networks
-- Data/AI basics: Data preprocessing, feature engineering, regression models
-- Tools and workflows: Git, GitHub, AI-assisted development tools
-- Problem solving: Solved 650+ algorithmic problems across LeetCode and Codeforces
+**Languages:** Python, JavaScript, TypeScript, C, C++  
+**Backend & Frontend:** FastAPI, Django REST Framework, Node.js, Express.js, React.js, Tailwind CSS, Vite  
+**Databases & AI:** PostgreSQL, MongoDB, MySQL, Milvus Lite, RAG, LLMs, BM25, Vector Search, Reranking, SHAP  
+**Tools:** Git, Docker, GitHub Actions, REST APIs, Linux  
 
 ---
 
-## Projects & Interests
+## Featured Projects
 
-I have worked on academic and personal projects involving:
+### CodeCompass — Grounded RAG System for Codebase Understanding
 
-- Marketplace platform development
-- Database-driven systems
-- Python automation
-- REST API concepts
-- Data preprocessing and machine learning basics
-- Open-source preparation and technical documentation
+A local-first RAG system that indexes GitHub repository code, documentation, and issue/PR history to answer codebase questions with citations to files, line ranges, and issues.
 
-I am especially interested in roles and opportunities where I can contribute to software development, data processing, backend systems, automation, testing, and real-world client or product-focused projects.
+**Tech:** Python, FastAPI, Milvus Lite, Ollama, React, TypeScript, BM25, Reranking  
+**Highlights:** Hybrid retrieval, dense search, BM25, Reciprocal Rank Fusion, cross-encoder reranking, 146 unit tests, strict mypy, ruff, Docker, GitHub Actions CI  
+**Repository:** [github.com/Fahmid-Arman/CodeCompass](https://github.com/Fahmid-Arman/CodeCompass)
 
 ---
 
-## Currently Learning
+### CareFlow AI — Full-Stack Clinic Operations Platform
 
-- Advanced Python and SQL
-- TypeScript and React
-- Backend development fundamentals
-- Software testing and debugging
-- Git/GitHub collaboration
-- Open-source contribution workflow
-- Dashboarding and data visualization tools
+A full-stack clinic operations platform with role-based workflows for Admin, Front Desk, Triage Nurse, Doctor, and Diagnostics users.
+
+**Tech:** Django REST Framework, PostgreSQL, React, TypeScript, Docker, Tailwind CSS  
+**Highlights:** Priority queueing, wait-time estimation, diagnostic flow planning, staff overrides, audit logging, automated tests, Docker Compose, synthetic demo data  
+**Repository:** [github.com/Fahmid-Arman/careflow-ai](https://github.com/Fahmid-Arman/careflow-ai)
+
+---
+
+### Campus Cart — BRACU Student Marketplace
+
+A MERN marketplace for university students with authentication, product management, search, filtering, buyer-seller messaging, reporting, and moderation workflows.
+
+**Tech:** MongoDB, Express.js, React.js, Node.js, Redux Toolkit, JWT, Multer  
+**Repository:** [github.com/Fahmid-Arman/Campus-Cart-BRAC-University-Student-Marketplace](https://github.com/Fahmid-Arman/Campus-Cart-BRAC-University-Student-Marketplace)
+
+---
+
+### BRACU Alumni Connect — Alumni Networking Platform
+
+A database-backed alumni platform with role-specific search, messaging, event and mentorship workflows, prepared statements, password hashing, and CSRF protection.
+
+**Tech:** PHP, MySQL, SQL, HTML, CSS  
+**Repository:** [github.com/Fahmid-Arman/BRACU-Alumni-Connect](https://github.com/Fahmid-Arman/BRACU-Alumni-Connect)
+
+---
+
+## Open Source
+
+### Agno AI Agent Framework
+
+Contributed a merged PR improving `CustomApiTools` authorization-header handling to prevent unintended API key forwarding when no base URL is configured, backed by focused unit tests.
+
+**Tech:** Python, pytest, CustomApiTools, Security  
+**Pull Request:** [agno-agi/agno#8582](https://github.com/agno-agi/agno/pull/8582#event-27324797391)
+
+---
+
+## Research
+
+### Machine Learning-Based Apartment Price Prediction in Dhaka
+
+Undergraduate thesis at BRAC University focused on predicting Dhaka apartment prices using structural and location-based features.
+
+Built a stacking ensemble on 9,167 cleaned Dhaka apartment listings, achieving **R² = 0.867** and **14.59% MAPE** on a held-out test set, with SHAP interpretability and split-conformal prediction intervals.
+
+**Tech:** Python, scikit-learn, XGBoost, LightGBM, SHAP
+
+---
+
+## Problem Solving
+
+- Solved **700+ algorithmic problems** across LeetCode and Codeforces
+- Focused on data structures, algorithms, and competitive programming fundamentals
 
 ---
 
 ## Connect With Me
 
-- GitHub: [github.com/Fahmid-Arman](https://github.com/Fahmid-Arman)
-- LinkedIn: [linkedin.com/in/fahmid-arman](https://www.linkedin.com/in/fahmid-arman/)
-- LeetCode: [leetcode.com/u/Fahmid_Arman](https://leetcode.com/u/Fahmid_Arman/)
+- **LinkedIn:** [linkedin.com/in/fahmid-arman](https://www.linkedin.com/in/fahmid-arman/)
+- **GitHub:** [github.com/Fahmid-Arman](https://github.com/Fahmid-Arman)
+- **LeetCode:** [leetcode.com/u/Fahmid_Arman](https://leetcode.com/u/Fahmid_Arman/)
