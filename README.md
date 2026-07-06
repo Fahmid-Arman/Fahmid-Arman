@@ -7,19 +7,16 @@
 
 <p align="center">
   <a href="mailto:fahmid.brac@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fahmid-arman/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Fahmid-Arman">
-    <img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" width="28" height="28"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Fahmid_Arman/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="28" height="28"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
 
@@ -128,18 +125,12 @@ Built a stacking ensemble on **9,167 cleaned Dhaka apartment listings**, achievi
 
 <p align="center">
   <a href="mailto:fahmid.brac@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="24" height="24"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fahmid-arman/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="24" height="24"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Fahmid-Arman">
-    <img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" width="24" height="24"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Fahmid_Arman/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="24" height="24"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
