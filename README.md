@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Fahmid Arman</h1>
 
 <p align="center">
-  <strong>Computer Science undergraduate at BRAC University</strong><br>
-  AI • Backend Engineering • Full-Stack Development • Open Source
+  <strong>Final-semester Computer Science undergraduate at BRAC University</strong><br>
+  Backend Engineering • Applied AI • Full-Stack Development • Open Source
 </p>
 
 <p align="center">
@@ -24,32 +24,58 @@
 
 ## About Me
 
-I am a Computer Science undergraduate student at **BRAC University, Bangladesh**, expected to graduate in **September 2026**.
+I am a final-semester Computer Science undergraduate at **BRAC University, Bangladesh**, expected to graduate in **September 2026**.
 
-I build practical software systems across **backend engineering, full-stack development, data-driven workflows, and applied AI**. My recent work includes a grounded RAG system for codebase understanding, a clinic operations platform, MERN marketplace development, database-backed web applications, and a machine learning thesis on apartment price prediction in Dhaka.
+My primary interests are **backend engineering, full-stack development, applied AI, developer tools, and data-driven systems**. I learn by building practical software and working across the development lifecycle, including API design, database modeling, testing, documentation, containerization, and continuous integration.
 
-I am also focused on open-source contribution, software testing, Git/GitHub workflows, clean engineering practices, and consistent problem solving.
+My recent work includes a grounded RAG system for codebase understanding, a full-stack clinic operations platform, a MERN student marketplace, a database-backed alumni networking platform, and an undergraduate machine learning thesis on apartment price prediction in Dhaka.
+
+I also contribute to open-source projects and have merged contributions to **mem0** and **Agno**.
 
 ---
 
 ## Current Focus
 
-- Building AI and backend-focused software projects
+- Building backend and applied AI systems
 - Working with RAG, LLMs, vector search, BM25, and reranking
-- Strengthening backend development with FastAPI, Django REST Framework, and Node.js
-- Improving full-stack development with React, TypeScript, and REST APIs
-- Practicing software testing, CI, Docker, and clean engineering workflows
+- Developing APIs with FastAPI, Django REST Framework, and Node.js
+- Building full-stack applications with React and TypeScript
+- Improving software quality through testing, Docker, CI/CD, and clean engineering practices
 - Contributing to open-source projects
-- Solving algorithmic problems on LeetCode and Codeforces
+- Strengthening data structures, algorithms, and problem-solving skills
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, TypeScript, C, C++  
-**Backend & Frontend:** FastAPI, Django REST Framework, Node.js, Express.js, React.js, Tailwind CSS, Vite  
+**Languages:** Python, SQL, JavaScript, TypeScript, C, C++  
+**Backend & Frontend:** FastAPI, Django REST Framework, Node.js, Express.js, React, Tailwind CSS, Vite  
 **Databases & AI:** PostgreSQL, MongoDB, MySQL, Milvus Lite, RAG, LLMs, BM25, Vector Search, Reranking, SHAP  
-**Tools:** Git, Docker, GitHub Actions, REST APIs, Linux  
+**Tools:** Git, Docker, GitHub Actions, CI/CD, pytest, REST APIs, Linux  
+
+---
+
+## Open Source Contributions
+
+### mem0 TypeScript SDK
+
+Added Google Cloud Vertex AI embedding provider support to the mem0 TypeScript SDK through a merged upstream pull request.
+
+The contribution covered provider implementation, configuration support, unit tests, and documentation.
+
+**Tech:** TypeScript, Google Cloud Vertex AI, Embeddings, SDK Development  
+**Pull Request:** [mem0ai/mem0#5882](https://github.com/mem0ai/mem0/pull/5882)
+
+---
+
+### Agno AI Agent Framework
+
+Contributed a merged pull request that improved `CustomApiTools` authorization-header handling to prevent unintended API key forwarding when no base URL is configured.
+
+The fix was backed by unit tests covering the affected authorization behavior.
+
+**Tech:** Python, pytest, API Security  
+**Pull Request:** [agno-agi/agno#8582](https://github.com/agno-agi/agno/pull/8582)
 
 ---
 
@@ -57,10 +83,19 @@ I am also focused on open-source contribution, software testing, Git/GitHub work
 
 ### CodeCompass — Grounded RAG System for Codebase Understanding
 
-A local-first RAG system that indexes GitHub repository code, documentation, and issue/PR history to answer codebase questions with citations to files, line ranges, and issues.
+A local-first RAG system that indexes GitHub code, documentation, and issue/PR history to answer codebase questions with grounded citations to files, line ranges, and issues.
 
 **Tech:** Python, FastAPI, Milvus Lite, Ollama, React, TypeScript, BM25, Reranking  
-**Highlights:** Hybrid retrieval, dense search, BM25, Reciprocal Rank Fusion, cross-encoder reranking, 146 unit tests, strict mypy, ruff, Docker, GitHub Actions CI  
+**Highlights:**
+
+- Dense vector search and BM25 retrieval
+- Reciprocal Rank Fusion
+- Cross-encoder reranking
+- Grounded answers with source citations
+- 146 unit tests
+- Strict mypy and ruff checks
+- Docker and GitHub Actions CI
+
 **Repository:** [CodeCompass](https://github.com/Fahmid-Arman/CodeCompass)
 
 ---
@@ -70,47 +105,73 @@ A local-first RAG system that indexes GitHub repository code, documentation, and
 A full-stack clinic operations platform with role-based workflows for Admin, Front Desk, Triage Nurse, Doctor, and Diagnostics users.
 
 **Tech:** Django REST Framework, PostgreSQL, React, TypeScript, Docker, Tailwind CSS  
-**Highlights:** Priority queueing, wait-time estimation, diagnostic flow planning, staff overrides, audit logging, automated tests, Docker Compose, synthetic demo data  
+**Highlights:**
+
+- Role-based operational workflows
+- Priority queueing
+- Wait-time estimation
+- Diagnostic flow planning
+- Staff overrides
+- Audit logging
+- Automated tests
+- Docker Compose setup
+- Synthetic demonstration data
+
 **Repository:** [CareFlow AI](https://github.com/Fahmid-Arman/careflow-ai)
 
 ---
 
 ### Campus Cart — BRACU Student Marketplace
 
-A MERN marketplace for university students with authentication, product management, search, filtering, buyer-seller messaging, reporting, and moderation workflows.
+A MERN marketplace developed by a four-member team for university students. I led the team and implemented the buyer-seller communication functionality.
 
-**Tech:** MongoDB, Express.js, React.js, Node.js, Redux Toolkit, JWT, Multer  
+**Tech:** MongoDB, Express.js, React, Node.js, Redux Toolkit, JWT, Multer  
+**Highlights:**
+
+- JWT authentication through HTTP-only cookies
+- bcrypt password hashing
+- Role-based student and admin access
+- Buyer-seller messaging
+- Unread-message tracking
+- Reporting and moderation workflows
+- Seller-scoped product CRUD
+- Search, filtering, and pagination
+- Multer image uploads
+
 **Repository:** [Campus Cart](https://github.com/Fahmid-Arman/Campus-Cart-BRAC-University-Student-Marketplace)
 
 ---
 
 ### BRACU Alumni Connect — Alumni Networking Platform
 
-A database-backed alumni platform with role-specific search, messaging, event and mentorship workflows, prepared statements, password hashing, and CSRF protection.
+A secure alumni networking platform built on a normalized MySQL schema with role-specific functionality.
 
-**Tech:** PHP, MySQL, SQL, HTML, CSS  
+**Tech:** PHP, MySQL, HTML, CSS  
+**Highlights:**
+
+- Role-specific search
+- Messaging
+- Event and mentorship workflows
+- Prepared statements
+- Password hashing
+- CSRF protection
+
 **Repository:** [BRACU Alumni Connect](https://github.com/Fahmid-Arman/BRACU-Alumni-Connect)
 
 ---
 
-## Open Source
-
-### Agno AI Agent Framework
-
-Contributed a merged PR improving `CustomApiTools` authorization-header handling to prevent unintended API key forwarding when no base URL is configured, backed by focused unit tests.
-
-**Tech:** Python, pytest, CustomApiTools, Security  
-**Pull Request:** [agno-agi/agno#8582](https://github.com/agno-agi/agno/pull/8582#event-27324797391)
-
----
-
-## Research
+## Thesis
 
 ### Machine Learning-Based Apartment Price Prediction in Dhaka
 
-Undergraduate thesis at BRAC University focused on predicting Dhaka apartment prices using structural and location-based features.
+Undergraduate thesis at BRAC University focused on predicting apartment prices in Dhaka using structural and location-based features.
 
-Built a stacking ensemble on **9,167 cleaned Dhaka apartment listings**, achieving **R² = 0.867** and **14.59% MAPE** on a held-out test set, with SHAP interpretability and split-conformal prediction intervals.
+Built a stacking ensemble on **9,167 cleaned apartment listings**, achieving:
+
+- **R² = 0.867**
+- **14.59% MAPE** on a held-out test set
+- SHAP-based model interpretability
+- Split-conformal prediction intervals
 
 **Tech:** Python, scikit-learn, XGBoost, LightGBM, SHAP
 
@@ -118,10 +179,12 @@ Built a stacking ensemble on **9,167 cleaned Dhaka apartment listings**, achievi
 
 ## Problem Solving
 
-- Solved **700+ algorithmic problems** across LeetCode and Codeforces
-- Focused on data structures, algorithms, and competitive programming fundamentals
+- Solved **700+ problems** across LeetCode and Codeforces
+- Focused on data structures, algorithms, and competitive programming
 
 ---
+
+## Contact
 
 <p align="center">
   <a href="mailto:fahmid.brac@gmail.com">
