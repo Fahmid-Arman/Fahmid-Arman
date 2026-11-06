@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fahmid Arman</h1>
 
 <p align="center">
-  <strong>Final-semester Computer Science undergraduate at BRAC University</strong><br>
+  <strong>Computer Science graduate, BRAC University</strong><br>
   Backend Engineering • Applied AI • Full-Stack Development • Open Source
 </p>
 
@@ -24,13 +24,13 @@
 
 ## About Me
 
-I am a final-semester Computer Science undergraduate at **BRAC University, Bangladesh**, expected to graduate in **September 2026**.
+I graduated with a BSc in Computer Science from **BRAC University, Bangladesh**, in **September 2026**.
 
 My primary interests are **backend engineering, full-stack development, applied AI, developer tools, and data-driven systems**. I learn by building practical software and working across the development lifecycle, including API design, database modeling, testing, documentation, containerization, and continuous integration.
 
 My recent work includes a grounded RAG system for codebase understanding, a full-stack clinic operations platform, a MERN student marketplace, a database-backed alumni networking platform, and an undergraduate machine learning thesis on apartment price prediction in Dhaka.
 
-I also contribute to open-source projects and have merged contributions to **mem0** and **Agno**.
+I contribute to open-source AI projects and have **33 merged pull requests** across Pipecat, AnythingLLM, Docling, txtai, Pydantic Logfire, mem0 and Agno.
 
 ---
 
@@ -41,7 +41,7 @@ I also contribute to open-source projects and have merged contributions to **mem
 - Developing APIs with FastAPI, Django REST Framework, and Node.js
 - Building full-stack applications with React and TypeScript
 - Improving software quality through testing, Docker, CI/CD, and clean engineering practices
-- Contributing to open-source projects
+- Fixing bugs in open-source AI frameworks such as Pipecat, AnythingLLM and Docling
 - Strengthening data structures, algorithms, and problem-solving skills
 
 ---
@@ -56,6 +56,27 @@ I also contribute to open-source projects and have merged contributions to **mem
 ---
 
 ## Open Source Contributions
+
+**33 merged pull requests** in open-source AI projects as of November 2026. Most are bug fixes with regression tests, written to each project's contribution guidelines.
+
+| Project | What it is | Merged PRs |
+|---|---|---|
+| [Pipecat](https://github.com/pipecat-ai/pipecat) | Framework for real-time voice and multimodal AI agents | [13](https://github.com/pipecat-ai/pipecat/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | AI application with RAG, agents and chat integrations | [13](https://github.com/Mintplex-Labs/anything-llm/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+| [Docling](https://github.com/docling-project/docling) | Document conversion for AI workflows | [2](https://github.com/docling-project/docling/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+| [txtai](https://github.com/neuml/txtai) | Embeddings database and AI framework | [2](https://github.com/neuml/txtai/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+| [Pydantic Logfire](https://github.com/pydantic/logfire) | Observability SDK for Python | [1](https://github.com/pydantic/logfire/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+| [mem0](https://github.com/mem0ai/mem0) | Memory layer for AI agents | [1](https://github.com/mem0ai/mem0/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+| [Agno](https://github.com/agno-agi/agno) | Framework for building AI agents | [1](https://github.com/agno-agi/agno/pulls?q=is%3Apr+author%3AFahmid-Arman+is%3Amerged) |
+
+### Selected fixes
+
+- **Pipecat:** the JSON bus serializer sent string enums such as DTMF keys as plain strings, so DTMF frames broke between Redis and PGMQ workers ([#6560](https://github.com/pipecat-ai/pipecat/pull/6560)). An event handler that removed itself made the next handler for the same event skip ([#6543](https://github.com/pipecat-ai/pipecat/pull/6543)). Azure Voice Live usage metrics now include cached and audio token counts ([#6559](https://github.com/pipecat-ai/pipecat/pull/6559)).
+- **AnythingLLM:** agent flow JSON bodies did not end a string at a quote that follows an escaped backslash ([#7018](https://github.com/Mintplex-Labs/anything-llm/pull/7018)). Prompt-based tool calls rejected `null` and JSON string arguments ([#7006](https://github.com/Mintplex-Labs/anything-llm/pull/7006)). Tool schemas with local `$ref` pointers to other properties were not resolved ([#7009](https://github.com/Mintplex-Labs/anything-llm/pull/7009)).
+- **Docling:** the JATS backend dropped the text of inline `<term>` elements ([#5177](https://github.com/docling-project/docling/pull/5177)), and the AsciiDoc backend kept the ` +` hard line break marker as literal text ([#5175](https://github.com/docling-project/docling/pull/5175)).
+- **txtai:** graph `SIMILAR()` clauses matched the wrong nodes when content storage was disabled, which is the default ([#1516](https://github.com/neuml/txtai/pull/1516)).
+
+---
 
 ### mem0 TypeScript SDK
 
